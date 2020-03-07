@@ -2,8 +2,6 @@
 
 A curated list with open-source and paid resources related to [Svelte JS Framework](https://svelte.dev/) - - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
-<br />
-
 ## Svelte Resources short-list
 
 **Links**
