@@ -1,6 +1,6 @@
 # [Svelte JS Framework](https://svelte.dev/)
 
-A curated list with open-source and paid resources related to [Svelte JS Framework](https://svelte.dev/) - - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+A curated list with resources (starters, blog articles) related to [Svelte JS Framework](https://svelte.dev/) - - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 ## Svelte Resources short-list
 
@@ -37,7 +37,7 @@ Open-source admin dashboard made by using [Svelte](https://svelte.dev/) and [Sap
 - UI Kit: [SvelteStrap](https://github.com/bestguy/sveltestrap) - Bootstrap4 components for Svelte v3
 - Design Credit: [SB Admin](https://startbootstrap.com/templates/sb-admin/) by **StartBootstrap**
 - **MIT License**
-- [SB-Admin-Svelte](https://github.com/app-generator/svelte-dashboard-sb-admin) - the original starter
+- [Svelte Dashboard SB Admin](https://github.com/app-generator/svelte-dashboard-sb-admin) - Souce Code
 - [Svelte Dashboard SB Admin](https://svelte-dashboard-sb-admin.appseed.us/) - LIVE Demo
 
 <br />
@@ -55,7 +55,7 @@ Open-source web app made by using [Svelte](https://svelte.dev/) and [Sapper](htt
 - JS Framework: [Svelte](https://svelte.dev/), [Sapper](https://sapper.svelte.dev/)
 - Design Credit: **Nixalar**
 - **MIT License**
-- [Digital Agency](https://github.com/karkranikhil/Digital-Agency-using-svelte) - the original starter
+- [Svelte Digital Agency](https://github.com/app-generator/svelte-digital-agency) - Souce Code
 - [Svelte Digital Agency](https://svelte-digital-agency.appseed.us/) - LIVE Demo
 
 <br />
@@ -74,7 +74,7 @@ Open-source web app made by using [Svelte](https://svelte.dev/) and [Sapper](htt
 - UI Kit: [Bulma CSS](https://bulma.io/)
 - Design Credit: **Robert C. Soriano**
 - **MIT License**
-- [Coderstats](https://github.com/sorxrob/coderstats) - the original starter
+- [Svelte Coderstats](https://github.com/app-generator/svelte-coderstats) - Souce Code
 - [Svelte Coderstats](https://svelte-coderstats.appseed.us/) - LIVE Demo
 
 <br />
