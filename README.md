@@ -42,7 +42,7 @@ Open-source admin dashboard made by using [Svelte](https://svelte.dev/) and [Sap
 
 <br />
 
-![Svelte Dashboard SB Admin - Open-Source Admin Dashboard coded in Svelte.](https://raw.githubusercontent.com/app-generator/static/master/products/svelte-dashboard-sb-admin-intro.gif)
+![Svelte Dashboard SB Admin - Open-Source Admin Dashboard coded in Svelte.](https://raw.githubusercontent.com/app-generator/static/master/products/svelte-dashboard-sb-admin-screen.png)
 
 <br />
 
@@ -60,7 +60,7 @@ Open-source web app made by using [Svelte](https://svelte.dev/) and [Sapper](htt
 
 <br />
 
-![Svelte Digital Agency - Open-Source Web App coded in Svelte.](https://raw.githubusercontent.com/app-generator/static/master/products/svelte-digital-agency-intro.gif)
+![Svelte Digital Agency - Open-Source Web App coded in Svelte.](https://raw.githubusercontent.com/app-generator/static/master/products/svelte-digital-agency-screen.png)
 
 <br />
 
@@ -79,7 +79,7 @@ Open-source web app made by using [Svelte](https://svelte.dev/) and [Sapper](htt
 
 <br />
 
-![Svelte Coderstats - Open-Source Web App coded in Svelte.](https://raw.githubusercontent.com/app-generator/static/master/products/svelte-coderstats-intro.gif)
+![Svelte Coderstats - Open-Source Web App coded in Svelte.](https://raw.githubusercontent.com/app-generator/static/master/products/svelte-coderstats-screen.png)
 
 <br />
 
