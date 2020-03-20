@@ -1,6 +1,6 @@
 # [Svelte JS Framework](https://svelte.dev/)
 
-A curated list with resources (starters, blog articles) related to [Svelte JS Framework](https://svelte.dev/) - - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+A curated list with resources (starters, blog articles) related to [Svelte JS Framework](https://svelte.dev/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
 ## Svelte Resources short-list
 
